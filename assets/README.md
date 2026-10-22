@@ -1,0 +1,1 @@
+Put optimized photos here, e.g. assets/cosplay-01/cover.webp. Reference the relative paths from data/albums.json or data/items.json. Avoid uploading full-resolution originals or private client files to public GitHub.

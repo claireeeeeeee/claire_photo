@@ -1,0 +1,5 @@
+[
+  {"id":"dress-01","name":"服装占位 01","category":"服装","image":"","size":"待填写","description":"在这里填写尺码、颜色、借用条件。","available":true},
+  {"id":"prop-01","name":"道具占位 01","category":"道具","image":"","size":"待填写","description":"在这里填写道具详情。","available":true},
+  {"id":"backdrop-01","name":"背景占位 01","category":"背景","image":"","size":"待填写","description":"在这里填写背景与布景详情。","available":true}
+]

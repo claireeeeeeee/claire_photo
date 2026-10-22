@@ -1,0 +1,6 @@
+[
+  {"id":"cosplay-01","title":"Cosplay · 作品相册占位","category":"Cosplay","description":"将来放角色正片与剧情摄影。","cover":"","images":[],"published":true},
+  {"id":"hanfu-01","title":"汉服 · 作品相册占位","category":"汉服","description":"将来放汉服与古风摄影。","cover":"","images":[],"published":true},
+  {"id":"portrait-01","title":"日常写真 · 作品相册占位","category":"写真","description":"将来放日常写真。","cover":"","images":[],"published":true},
+  {"id":"events-01","title":"活动摄影 · 作品相册占位","category":"活动","description":"将来放漫展与活动抓拍。","cover":"","images":[],"published":true}
+]
